@@ -1,0 +1,33 @@
+# Chapter Officers
+# Update this file each year with new officer information
+# This data is used on the Officers page
+
+- title: "President"
+  name: "Kevin Brown"
+  email: "president@centexumpires.org"
+  image: "/assets/images/officers/President.jpg"
+  bio: "Leads chapter operations and represents the association to UIL, TASO, and local school districts."
+
+- title: "Vice President & Training Coordinator"
+  name: "Gordon Glaze"
+  email: "vp@centexumpires.org"
+  image: "/assets/images/officers/VicePresident.jpg"
+  bio: "Oversees member development, training sessions, and rules education programs."
+
+- title: "Treasurer & Secretary"
+  name: "John Voeller"
+  email: "treasurer@centexumpires.org"
+  image: "/assets/images/officers/Treasurer.jpg"
+  bio: "Manages chapter finances, maintains official records, and handles meeting documentation."
+
+- title: "Assigning Secretary"
+  name: "Ray Johnson"
+  email: "assigner@centexumpires.org"
+  image: "/assets/images/officers/Assigner.jpg"
+  bio: "Coordinates game assignments and scheduling through Arbiter for all chapter members."
+
+- title: "Member-At-Large"
+  name: "Todd Wood"
+  email: "billing@centexumpires.org"
+  image: "/assets/images/officers/MemberAtLarge.jpg"
+  bio: "Manages game invoices and payment processing for the chapter. Also serves as the voice of the membership, bringing member concerns and feedback to chapter officers."

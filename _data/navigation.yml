@@ -1,0 +1,15 @@
+# Site Navigation
+# Main navigation (appears in masthead)
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Officers"
+    url: /officers/
+  - title: "Join"
+    url: /join/
+  - title: "Resources"
+    url: /resources/
+  - title: "News"
+    url: /posts/
