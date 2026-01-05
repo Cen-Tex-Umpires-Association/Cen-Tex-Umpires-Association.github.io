@@ -5,6 +5,7 @@ Static website for a high school baseball umpire chapter, replacing an existing 
 
 ## Technical Stack
 - **Static Site Generator:** Jekyll
+- **Theme:** Minimal Mistakes (remote theme)
 - **Hosting:** GitHub Pages (free)
 - **Local Development:** Docker container (avoids Ruby installation on Windows)
 - **Automation:** n8n (self-hosted on VPS) for content publishing workflow
@@ -27,6 +28,7 @@ Using volume mounts (not SSH into container) so:
 - Edit files with VS Code normally
 - Container runs Jekyll server with hot reload
 - Use `--force_polling` for reliable file watching on Windows
+- Restart required for `_config.yml` changes: `docker-compose down && docker-compose up`
 
 ### Content Publishing Workflow
 1. Chapter officers log into Notion as guests (up to 10 on free tier)
@@ -36,41 +38,45 @@ Using volume mounts (not SSH into container) so:
 5. n8n commits markdown to GitHub repo `_posts/` directory
 6. GitHub Pages auto-rebuilds
 
+### Email Protection
+JavaScript-based obfuscation protects email addresses from spam harvesters:
+- Officers page uses `<span class="protected-email" data-u="user" data-d="domain">` pattern
+- Footer/sidebar mailto links are transformed client-side
+- Script: `assets/js/email-protect.js`
+
 ## Site Structure
 ```
 ├── _posts/              # News, announcements, meeting notes
 ├── _pages/
-│   ├── about.md
-│   ├── officers.md
-│   ├── join.md
-│   └── resources.md     # Links to Arbiter, state association, rulebooks
+│   ├── about.md         # Chapter info, service area map, schools list
+│   ├── officers.md      # Officer roster (pulls from _data/officers.yml)
+│   ├── join.md          # Membership info and requirements
+│   ├── compensation.md  # Game fees and travel rates
+│   ├── resources.md     # Links to Arbiter, TASO, UIL, rulebooks
+│   └── posts.md         # News archive page
 ├── _data/
-│   └── officers.yml     # Structured data for easy yearly updates
+│   ├── officers.yml     # Officer info with photos and bios
+│   └── navigation.yml   # Site navigation menu
+├── _includes/
+│   └── footer.html      # Custom footer (removed "Powered by" text)
+├── assets/
+│   ├── images/          # Logo, hero images, officer photos
+│   └── js/
+│       └── email-protect.js  # Email obfuscation script
 ├── _config.yml
 ├── docker-compose.yml
 └── Gemfile
 ```
 
-## Theme Candidates
-- **Minimal Mistakes** - Flexible, well-documented, good for org sites
-- **Just the Docs** - Documentation style, clean navigation
-- **Basically Basic** - Simpler alternative if less overhead needed
-
-## Contact Form Solution
-Since static sites can't process forms server-side:
-- Formspree or Getform (free tiers)
-- Google Forms embedded
-- n8n webhook endpoint
-
 ## Remaining Tasks
-1. [ ] Set up Docker Compose for local Jekyll development
-2. [ ] Select and configure theme
-3. [ ] Create initial page structure
+1. [x] Set up Docker Compose for local Jekyll development
+2. [x] Select and configure theme (Minimal Mistakes)
+3. [x] Create initial page structure
 4. [ ] Set up GitHub repository and Pages deployment
 5. [ ] Configure Notion database for posts
 6. [ ] Build n8n workflow (Notion → GitHub commit)
-7. [ ] Set up contact form solution
-8. [ ] Migrate essential content from WordPress
+7. [x] Email protection (JavaScript obfuscation)
+8. [x] Migrate essential content from WordPress
 9. [ ] Point domain DNS to GitHub Pages
 
 ## Domain
@@ -80,3 +86,4 @@ Already separate from WordPress hosting - just needs DNS update when ready.
 - Export any archival content from WordPress before canceling (meeting minutes, historical posts)
 - Officers database in `_data/officers.yml` keeps roster updates simple
 - Notion guest invites = each officer uses own email, no shared credentials
+- Hero images can use page-specific CSS for background positioning (see posts for examples)
