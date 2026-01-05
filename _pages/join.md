@@ -35,11 +35,14 @@ New officials complete classroom instruction and field training before receiving
 - **Commitment**: Flexible scheduling based on your availability
 
 ## Benefits of Membership
+> Dues $40/year for over a decade
 
 - Professional development opportunities
 - Mentorship from experienced officials
 - Camaraderie with fellow umpires
 - Contribute to high school athletics in your community
+
+See our [Compensation](/compensation/) page for game and travel fees.
 
 ## Questions?
 

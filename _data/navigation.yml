@@ -9,6 +9,8 @@ main:
     url: /officers/
   - title: "Join"
     url: /join/
+  - title: "Compensation"
+    url: /compensation/
   - title: "Resources"
     url: /resources/
   - title: "News"

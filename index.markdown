@@ -52,8 +52,6 @@ We are the TASO Baseball Central Texas Chapter of high school baseball officials
   </div>
 </div>
 
----
-
 ## Latest News
 
 {% for post in site.posts limit:3 %}
