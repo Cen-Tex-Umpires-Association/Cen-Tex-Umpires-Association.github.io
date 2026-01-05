@@ -72,12 +72,12 @@ JavaScript-based obfuscation protects email addresses from spam harvesters:
 1. [x] Set up Docker Compose for local Jekyll development
 2. [x] Select and configure theme (Minimal Mistakes)
 3. [x] Create initial page structure
-4. [ ] Set up GitHub repository and Pages deployment
+4. [x] Set up GitHub repository and Pages deployment
 5. [ ] Configure Notion database for posts
 6. [ ] Build n8n workflow (Notion → GitHub commit)
 7. [x] Email protection (JavaScript obfuscation)
 8. [x] Migrate essential content from WordPress
-9. [ ] Point domain DNS to GitHub Pages
+9. [x] Point domain DNS to GitHub Pages
 
 ## Domain
 Already separate from WordPress hosting - just needs DNS update when ready.
