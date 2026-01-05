@@ -3,12 +3,14 @@ title: "Compensation"
 permalink: /compensation/
 ---
 
-Unlike some chapters, CenTex does not deduct fees from member earnings for assigning or payment processing — you keep 100% of your game and travel fees. Chapter operations are funded through scrimmage proceeds and member dues.
+Unlike some chapters, CenTex does not deduct fees from member earnings for assigning, game pay sheets, or payment processing — **you keep 100% of your game and travel fees**. Chapter operations are funded through scrimmage proceeds and member dues.
 
-Our Member-at-Large handles all paysheet submissions, so you never need to contact schools about game sheets or payments.
+Our Member-at-Large handles all paysheet submissions, so you never need to contact schools about game pay sheets or payments.
 
 ## Travel Fees for 2026
 > Centerpoint: 1202 S Main St, Georgetown, TX 78626
+
+Travel fees are based on the distance from the chapter centerpoint to the venue. Officials receive one travel fee per venue per day, regardless of how many games are worked.
 
 - $20 for 0-30.9 Miles (_Majority of our schools_)
 - $35 for 31-60.9 Miles (_Elgin, Marble Falls, & St. Michael's_)
@@ -16,7 +18,7 @@ Our Member-at-Large handles all paysheet submissions, so you never need to conta
 - Portal-to-Portal round trip at 0.72/mi for venues exceeding 91 miles one-way from chapter centerpoint
 
 ## Game Fees for 2026
-Tournament, regular season, and playoff games fees are established by TASO for all UIL and TAPPS games our chapter cover.
+Tournament, regular season, and playoff games fees are established by TASO for all UIL and TAPPS games our chapter covers.
 
 ### Scrimmages
 - Officials are paid for travel less $40 for next season's dues
