@@ -18,7 +18,8 @@ Meet the leadership team of the CenTex Umpire Association. Our officers work to 
     </h2>
     <p><strong>{{ officer.name }}</strong></p>
     {% if officer.email %}
-    <p>Email: <a href="mailto:{{ officer.email }}">{{ officer.email }}</a></p>
+    {% assign email_parts = officer.email | split: "@" %}
+    <p>Email: <span class="protected-email" data-u="{{ email_parts[0] }}" data-d="{{ email_parts[1] }}"><noscript>Enable JavaScript to view email</noscript></span></p>
     {% endif %}
     {% if officer.bio %}
     <p>{{ officer.bio }}</p>
@@ -33,4 +34,4 @@ Meet the leadership team of the CenTex Umpire Association. Our officers work to 
 
 ## Contact
 
-For general inquiries, please email [president@centexumpires.org](mailto:president@centexumpires.org).
+For general inquiries, please email <span class="protected-email" data-u="president" data-d="centexumpires.org"><noscript>Enable JavaScript to view email</noscript></span>.

@@ -114,6 +114,10 @@ defaults:
       sidebar:
         nav: "main"
 
+# Custom Scripts (loaded after theme scripts)
+after_footer_scripts:
+  - /assets/js/email-protect.js
+
 # Exclude from processing
 exclude:
   - .sass-cache/
