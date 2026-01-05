@@ -5,7 +5,7 @@ permalink: /compensation/
 
 Unlike some chapters, CenTex does not deduct fees from member earnings for assigning, game pay sheets, or payment processing — **you keep 100% of your game and travel fees**. Chapter operations are funded through scrimmage proceeds and member dues.
 
-Our Member-at-Large handles all paysheet submissions, so you never need to contact schools about game pay sheets or payments.
+Our Member-At-Large handles all paysheet submissions, so you never need to contact schools about game pay sheets or payments.
 
 ## Travel Fees for 2026
 > Centerpoint: 1202 S Main St, Georgetown, TX 78626
