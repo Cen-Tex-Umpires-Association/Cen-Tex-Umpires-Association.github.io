@@ -8,7 +8,13 @@ header:
   overlay_image: /assets/images/posts/new-member-training.jpg
   overlay_filter: 0.3
 ---
-
+<style>
+@media (min-width: 768px) {
+  .page__hero--overlay {
+    background-position: center calc(50% + 150px);
+  }
+}
+</style>
 The TASO Cen-Tex Baseball Chapter is hosting a **New Member Field Training** session.
 
 ## Details

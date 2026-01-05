@@ -8,7 +8,14 @@ header:
   overlay_image: /assets/images/posts/tapps-2024-state-crew.jpg
   overlay_filter: 0.3
 ---
----
+
+<style>
+@media (min-width: 768px) {
+  .page__hero--overlay {
+    background-position: center calc(50% + 150px);
+  }
+}
+</style>
 
 The TASO CenTex Chapter was honored to send the following crew to the **TAPPS Baseball 2024 State Championship Tournament** at UT Arlington:
 
