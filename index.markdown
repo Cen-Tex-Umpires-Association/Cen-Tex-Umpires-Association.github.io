@@ -44,9 +44,9 @@ We are the TASO Baseball Central Texas Chapter of high school baseball officials
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-body">
-        <h3 class="archive__item-title">Resources</h3>
-        <p class="archive__item-excerpt">TASO, UIL, rules, and equipment resources.</p>
-        <p><a href="/resources/" class="btn btn--primary">View Resources</a></p>
+        <h3 class="archive__item-title">Compensation</h3>
+        <p class="archive__item-excerpt">Game fees, travel rates, and why you keep 100%.</p>
+        <p><a href="/compensation/" class="btn btn--primary">View Rates</a></p>
       </div>
     </div>
   </div>
