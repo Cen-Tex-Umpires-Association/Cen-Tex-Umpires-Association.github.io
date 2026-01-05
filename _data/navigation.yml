@@ -11,7 +11,7 @@ main:
     url: /join/
   - title: "Compensation"
     url: /compensation/
-  - title: "Resources"
-    url: /resources/
   - title: "News"
     url: /posts/
+  - title: "Resources"
+    url: /resources/
