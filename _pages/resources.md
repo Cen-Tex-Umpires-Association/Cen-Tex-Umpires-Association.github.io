@@ -7,7 +7,7 @@ permalink: /resources/
 
 ### TASO & UIL
 
-- [TASO Online](https://www.taso.org/){:target="_blank" rel="noopener"} - Texas Association of Sports Officials
+- [TASO](https://taso.org/){:target="_blank" rel="noopener"} - Texas Association of Sports Officials
 - [UIL Baseball](https://www.uiltexas.org/baseball) - University Interscholastic League
 - [UIL Officials Resources](https://www.uiltexas.org/officials) - Official UIL information for officials
 
@@ -37,10 +37,6 @@ Quality officiating requires proper equipment. Here are common items officials n
 - [Officials Gear Outlet](https://officialsgearoutlet.com/) ([TASO Hats](https://officialsgearoutlet.com/collections/umpire-hats))
 - [Ump Junk](https://umpjunksa.com/) ([TASO Hats](https://umpjunksa.com/product-category/baseball/baseball-umpire-hats/))
 - [Hudson 51 Official Wear](https://www.hudson51wear.com/)
-
-## Training Materials
-
-Check back for training videos, rules interpretations, and mechanics resources.
 
 ## Contact
 

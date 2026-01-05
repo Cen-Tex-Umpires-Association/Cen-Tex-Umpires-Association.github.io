@@ -5,7 +5,7 @@ permalink: /join/
 
 ## Become a High School Baseball Umpire
 
-Interested in officiating high school baseball in Central Texas? We welcome new members to our chapter!
+Interested in officiating high school baseball in Central Texas? We welcome new members and TASO transfers to our chapter!
 
 ## Requirements
 
@@ -19,7 +19,7 @@ To become a high school baseball umpire in Texas, you must:
 ## Getting Started
 
 ### Step 1: TASO Registration
-Visit [TASO](https://www.taso.org/){:target="_blank" rel="noopener"} and click the `Apply` button in the `New Applicants` section to register as a baseball official. Select the `Central Texas` chapter during the application process to connect with us.
+Visit [TASO](https://taso.org/){:target="_blank" rel="noopener"} and click the `Apply` button in the `New Applicants` section to register as a baseball official. Select the `Central Texas` chapter during the application process to connect with us.
 
 ### Step 2: Contact Our Chapter
 Reach out to our Training Coordinator to learn about upcoming training opportunities.
@@ -30,7 +30,7 @@ New officials complete classroom instruction and field training before receiving
 ## What to Expect
 
 - **Season**: High school baseball runs February through May
-- **Games**: Varsity, JV, and Freshman level games
+- **Games**: Varsity (6A, 5A, 4A, & TAPPS), JV, and Freshman
 - **Compensation**: Game fees vary by level and tournament
 - **Commitment**: Flexible scheduling based on your availability
 

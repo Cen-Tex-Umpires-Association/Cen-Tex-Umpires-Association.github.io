@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Who We Are
 
-The CenTex Umpire Association is a chapter of high school baseball officials serving the Central Texas area, including Austin, Cedar Park, Georgetown, Round Rock, and surrounding communities.
+The CenTex Umpire Association is a chapter of high school baseball officials serving the Central Texas area, including Austin, Cedar Park, Georgetown, Round Rock, Liberty Hill, Marble Falls, Manor, Elgin and surrounding communities.
 
 ## Our Mission
 
@@ -58,7 +58,7 @@ We are dedicated to:
 <p style="text-align: center; margin: 2rem 0;">
   <img src="/assets/images/TASOlogo.svg" alt="Texas Association of Sports Officials" style="max-width: 200px;">
 </p>
-We are affiliated with the Texas Association of Sports Officials (TASO) and operate under UIL guidelines for high school baseball officiating.
+We are affiliated with the Texas Association of Sports Officials ([TASO](https://taso.org/){:target="_blank" rel="noopener"}) and operate under [UIL](https://www.uiltexas.org/){:target="_blank" rel="noopener"} guidelines for high school baseball officiating.
 
 ## Contact Us
 

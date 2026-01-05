@@ -11,13 +11,20 @@ Meet the leadership team of the CenTex Umpire Association. Our officers work to 
   <img src="{{ officer.image }}" alt="{{ officer.name }}" style="width: 150px; height: 200px; object-fit: cover; object-position: top; border-radius: 8px; flex-shrink: 0;">
   {% endif %}
   <div>
-    <h2 style="margin-top: 0;">{{ officer.title }}</h2>
+    <h2 style="margin-top: 0;">{{ officer.title }}
+    {% if officer.taso %}
+    <a href="https://taso.org/chapter-directory/baseball/" target="_blank"><img src="https://img.shields.io/badge/{{ officer.taso | replace: ' ', '%20' | replace: '-', '--' }}-blue?style=flat-square" alt="{{ officer.taso }}"></a>
+    {% endif %}
+    </h2>
     <p><strong>{{ officer.name }}</strong></p>
     {% if officer.email %}
     <p>Email: <a href="mailto:{{ officer.email }}">{{ officer.email }}</a></p>
     {% endif %}
     {% if officer.bio %}
     <p>{{ officer.bio }}</p>
+    {% endif %}
+    {% if officer.addendum %}
+    <p>{{ officer.addendum }}</p>
     {% endif %}
   </div>
 </div>
