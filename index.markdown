@@ -14,7 +14,7 @@ excerpt: "Providing professional high school baseball officials in Central Texas
 
 ## Welcome to CenTex Umpire Association
 
-We are the TASO Baseball Central Texas Chapter of high school baseball officials proudly serving the Central Texas area. Our members officiate UIL baseball games across Austin, Cedar Park, Georgetown, Round Rock, Liberty Hill, Marble Falls, Manor, Elgin and [surrounding communities](/about/#our-service-area).
+We are the TASO Baseball Central Texas Chapter of high school baseball officials proudly serving the Central Texas area. Our members officiate UIL baseball games across Austin, Cedar Park, Leander, Georgetown, Round Rock, Liberty Hill, Marble Falls, Hutto, Manor, Elgin and [surrounding communities](/about/#our-service-area).
 
 ---
 

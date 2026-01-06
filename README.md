@@ -2,7 +2,7 @@
 
 **TASO Baseball Central Texas Chapter**
 
-We are a non-profit chapter of high school baseball officials proudly serving the Central Texas area. Our members officiate UIL and TAPPS baseball games across Austin, Cedar Park, Georgetown, Round Rock, Liberty Hill, Marble Falls, Manor, Elgin, and surrounding communities.
+We are a non-profit chapter of high school baseball officials proudly serving the Central Texas area. Our members officiate UIL and TAPPS baseball games across Austin, Cedar Park, Leander, Georgetown, Round Rock, Liberty Hill, Marble Falls, Hutto, Manor, Elgin, and surrounding communities.
 
 ## Our Mission
 
